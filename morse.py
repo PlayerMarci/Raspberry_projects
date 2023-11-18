@@ -51,7 +51,7 @@ dictionary = {
 
 while (True):
 
-    print("Give me a string which morse code you want to see!")
+    print("Enter a character string for which you want to see the Morse code!")
 
     text = input().upper()
 
